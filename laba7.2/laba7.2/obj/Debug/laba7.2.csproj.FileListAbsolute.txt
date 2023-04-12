@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\Новая папка\laba7.2\laba7.2\bin\Debug\laba7.2.exe.config
+C:\Users\Student\Desktop\Новая папка\laba7.2\laba7.2\bin\Debug\laba7.2.exe
+C:\Users\Student\Desktop\Новая папка\laba7.2\laba7.2\bin\Debug\laba7.2.pdb
+C:\Users\Student\Desktop\Новая папка\laba7.2\laba7.2\obj\Debug\laba7.2.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Новая папка\laba7.2\laba7.2\obj\Debug\laba7.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\Новая папка\laba7.2\laba7.2\obj\Debug\laba7.2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Новая папка\laba7.2\laba7.2\obj\Debug\laba7.2.exe
+C:\Users\Student\Desktop\Новая папка\laba7.2\laba7.2\obj\Debug\laba7.2.pdb
